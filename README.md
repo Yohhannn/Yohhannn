@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Yohhan!</h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yohhannn&label=Profile%20views&color=0e75b6&style=flat" alt="yohhannn" /> </p>
+
 <p align="center">
   💻 <strong>Aspiring Software Engineer</strong> & <strong>Cybersecurity Enthusiast</strong><br>
   🎓 Currently a <strong>college student</strong>, working toward becoming a <strong>software engineer</strong> and <strong>cyber engineer</strong>.<br>
@@ -63,10 +65,10 @@
 <h2>🤝 Connect with me:</h2>
 <p align="left">
   <a href="https://discord.gg/A9jgs4SvkD" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" style="vertical-align: middle; margin-right: 5px;" />
   </a>
-  <a href="https://t.me/Yohhan21" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Yohhan21" height="30" width="40" />
+  <a href="https://t.me/Yohhan21" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Yohhan21" height="30" width="40" style="vertical-align: middle;" />
   </a>
 </p>
 
