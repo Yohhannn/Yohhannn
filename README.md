@@ -11,13 +11,14 @@
 
 ---
 
-## ⚡ Professional Background
-[cite_start]I am a self-driven developer with a career built on independence and a "never-quit" work ethic[cite: 7, 10]. [cite_start]Since high school, I have been self-supporting through freelance technical work, gaining a deep, practical understanding of how internet technology functions[cite: 8, 9].
+## ⚡ About Me
+I am a self-driven professional with a career built on independence and curiosity. I began my freelance journey in high school and have been self-supporting ever since, fostering a deep, practical understanding of internet technology. 
 
-* [cite_start]🔭 **Founder:** Yohhan Services — Providing technical agency solutions for Minecraft communities and businesses[cite: 33, 34].
-* [cite_start]🛠️ **Technical Specialist:** 8+ years of experience in server stability, network performance, and custom game environments[cite: 35].
-* [cite_start]🎨 **Studio Manager (Jinno Studio):** Lead projects from concept to reality, managing daily operations and team coordination[cite: 69, 70, 75].
-* [cite_start]🛡️ **Technical Director:** Managed live esports broadcasts and technical setups for various event scales[cite: 16, 88, 96].
+* 🔭 **Founder:** Yohhan Development & Yohhan Services, technical agencies providing tailored server setups and configuration solutions.
+* 🛠️ **Experience:** 8+ years of freelance technical management specializing in the Minecraft industry, focusing on server stability and custom environments.
+* 🛡️ **Technical Director:** Experience managing esports broadcasts and production workflows.
+* 💼 **Sideline:** Contributing freelance technical and creative work at Jinno Studio.
+* 💬 **Focus:** High-performance server architecture, system optimization, and technical consulting.
 
 ---
 
@@ -38,25 +39,27 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
 </p>
 
+### **DevOps & Cloud Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,linux,bash,docker,aws,azure,vercel,yaml&theme=dark" />
+</p>
+
 ---
 
 ## 📁 Featured Development Work
-* [cite_start]**Procurement Management System:** ERP-style system for logistics firm automation (Laravel/React/PostgreSQL)[cite: 100, 101].
-* [cite_start]**Finscope:** AI-Powered Personal Finance Assistant utilizing Azure OpenAI[cite: 103, 104].
-* [cite_start]**Instructor Evaluation System:** Secure faculty portal with facial recognition (AWS Rekognition)[cite: 110, 111, 112].
-* [cite_start]**Stockwise:** High-volume inventory management system focusing on real-time order tracking[cite: 114, 116].
-* [cite_start]**MaPro:** Barangay profiling system with real-time demographic data visualization[cite: 107, 109].
+* **Procurement Management System:** ERP-style system for logistics firms using Laravel, React, and PostgreSQL.
+* **FinScope:** AI-Powered Personal Finance tool utilizing Node.js and Azure OpenAI.
+* **Instructor Evaluation System:** Secure portal featuring facial recognition via AWS Rekognition.
+* **Stockwise:** High-volume inventory management system focusing on real-time order tracking.
+* **MaPro:** Local government records system featuring automated resident profiling.
+* **University Enrollment System:** Admission portal optimized for high-concurrency database transactions.
 
 ---
 
 ## 📊 Performance Metrics
 <p align="center">
-  <img width="490" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&theme=tokyonight" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannn&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohhannn&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Yohhan's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannn&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
