@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yohhan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="yohhannn" />
-  <img src="https://img.shields.io/badge/Location-Philippines-brightgreen?style=for-the-badge&logo=googlemaps" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yohhannn&label=Profile%20views&color=0e75b6&style=flat" alt="yohhannn" /> </p>
+<img src="https://img.shields.io/badge/Location-Philippines-brightgreen?style=for-the-badge&logo=googlemaps" />
 </p>
 
 ---
