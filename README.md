@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Yohhan | Full-Stack Developer & Cybersecurity Enthusiast</h1>
+<h1 align="center">👨‍💻 Yohhan | Software Developer & Cybersecurity Enthusiast</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5LggXzOAL6GvO7/giphy.gif" width="600">
@@ -12,12 +12,12 @@
 ---
 
 ## ⚡ About Me
-I am a **Software Engineering student** and the **Founder of Yohhan Development**. With over **8 years of experience** in technical configurations and system management within the Minecraft industry, I specialize in high-performance server architecture, custom Java solutions, and systems optimization.
+[cite_start]I am a self-driven **Software Developer** and **Founder of Yohhan Services**[cite: 2, 33]. [cite_start]With over **8 years of experience** in technical management and freelance development, I have a deep, practical understanding of high-performance server architecture and system optimization[cite: 9, 35]. 
 
-* 🔭 **Founder:** Yohhan Development & Yohhan Services
-* 🛠️ **Expertise:** Minecraft Industry Freelancing (Plugins & Server Optimization)
-* 🛡️ **Interests:** Server-side security, Back-end Architecture, and Cyber Engineering.
-* 💬 **Ask me about:** Java optimization, SQL database management, or IPv6 routing.
+* [cite_start]🔭 **Founder & Lead Specialist:** Yohhan Services — Providing technical solutions for Minecraft communities and businesses[cite: 33, 34].
+* [cite_start]🛠️ **Technical Director:** Extensive background in broadcast production and event management for esports[cite: 16, 17, 88].
+* [cite_start]🛡️ **Interests:** System reliability, performance tuning, and building AI-integrated management systems[cite: 37, 50, 103].
+* 💬 **Ask me about:** Java optimization, SQL database design, or Laravel/React integration.
 
 ---
 
@@ -25,12 +25,12 @@ I am a **Software Engineering student** and the **Founder of Yohhan Development*
 
 ### **Languages & Logic**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js,php&theme=dark" />
 </p>
 
 ### **Frameworks & Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,express,bootstrap,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,bootstrap,html,css&theme=dark" />
 </p>
 
 ### **Databases (SQL & NoSQL)**
@@ -38,10 +38,19 @@ I am a **Software Engineering student** and the **Founder of Yohhan Development*
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
 </p>
 
-### **DevOps & Tools**
+### **DevOps & Cloud Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,linux,bash,docker,yaml&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,linux,bash,docker,aws,azure,vercel,yaml&theme=dark" />
 </p>
+
+---
+
+## 📁 Featured Development Work
+- [cite_start]**Finscope:** AI-Powered Personal Finance Assistant using Node.js and Azure OpenAI[cite: 103, 104].
+- [cite_start]**Procurement Management System:** An ERP-style solution built with Laravel, React, and PostgreSQL[cite: 100].
+- [cite_start]**Instructor Evaluation System:** A secure portal featuring Facial Recognition via AWS Rekognition[cite: 110, 111].
+- [cite_start]**Stockwise:** High-volume inventory management system inspired by merchant dashboards[cite: 114].
+- [cite_start]**MaPro:** Government records and resident profiling system utilizing Python and PostgreSQL[cite: 107, 108].
 
 ---
 
@@ -49,10 +58,6 @@ I am a **Software Engineering student** and the **Founder of Yohhan Development*
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannn&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohhannn&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
