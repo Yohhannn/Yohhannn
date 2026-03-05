@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Yohhan | Software Developer & Cybersecurity Enthusiast</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5LggXzOAL6GvO7/giphy.gif" width="600">
+  <img src="https://raw.githubusercontent.com/rzhade3/rzhade3/master/spooky.gif" width="600">
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 ---
 
 ## ⚡ About Me
-[cite_start]I am a self-driven **Software Developer** and **Founder of Yohhan Services**[cite: 2, 33]. [cite_start]With over **8 years of experience** in technical management and freelance development, I have a deep, practical understanding of high-performance server architecture and system optimization[cite: 9, 35]. 
+[cite_start]I am a self-driven professional with a career built on independence and curiosity[cite: 7]. [cite_start]I began my freelance journey in high school and have been self-supporting ever since, fostering a deep, practical understanding of internet technology[cite: 8, 9]. 
 
-* [cite_start]🔭 **Founder & Lead Specialist:** Yohhan Services — Providing technical solutions for Minecraft communities and businesses[cite: 33, 34].
-* [cite_start]🛠️ **Technical Director:** Extensive background in broadcast production and event management for esports[cite: 16, 17, 88].
-* [cite_start]🛡️ **Interests:** System reliability, performance tuning, and building AI-integrated management systems[cite: 37, 50, 103].
-* 💬 **Ask me about:** Java optimization, SQL database design, or Laravel/React integration.
+* [cite_start]🔭 **Founder:** Yohhan Services, a technical agency providing server setup and configuration solutions[cite: 33, 34].
+* [cite_start]🛠️ **Experience:** 8+ years of freelance technical management focusing on server stability and custom environments[cite: 35].
+* [cite_start]🛡️ **Technical Director:** Experience managing esports broadcasts and production workflows[cite: 16, 88].
+* [cite_start]💬 **Focus:** High-performance server architecture, system optimization, and technical consulting[cite: 37, 50, 54].
 
 ---
 
@@ -46,11 +46,12 @@
 ---
 
 ## 📁 Featured Development Work
-- [cite_start]**Finscope:** AI-Powered Personal Finance Assistant using Node.js and Azure OpenAI[cite: 103, 104].
-- [cite_start]**Procurement Management System:** An ERP-style solution built with Laravel, React, and PostgreSQL[cite: 100].
-- [cite_start]**Instructor Evaluation System:** A secure portal featuring Facial Recognition via AWS Rekognition[cite: 110, 111].
-- [cite_start]**Stockwise:** High-volume inventory management system inspired by merchant dashboards[cite: 114].
-- [cite_start]**MaPro:** Government records and resident profiling system utilizing Python and PostgreSQL[cite: 107, 108].
+* [cite_start]**Procurement Management System:** ERP-style system for logistics firms using Laravel, React, and PostgreSQL[cite: 100, 101].
+* [cite_start]**Finscope:** AI-Powered Personal Finance tool utilizing Node.js and Azure OpenAI[cite: 103, 104].
+* [cite_start]**Instructor Evaluation System:** Secure portal featuring facial recognition via AWS Rekognition[cite: 110, 111].
+* [cite_start]**Stockwise:** High-volume inventory management system focusing on real-time order tracking[cite: 114, 116].
+* [cite_start]**MaPro:** Local government records system featuring automated resident profiling[cite: 107, 108].
+* [cite_start]**University Enrollment System:** Admission portal optimized for high-concurrency database transactions[cite: 120, 122].
 
 ---
 
