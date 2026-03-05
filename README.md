@@ -1,86 +1,55 @@
 <h1 align="center">👋 Hi, I'm Yohhan!</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yohhannn&label=Profile%20views&color=0e75b6&style=flat" alt="yohhannn" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yohhannn&label=Profile%20views&color=0e75b6&style=flat-square" alt="yohhannn" />
+</p>
 
 <p align="center">
-  💻 <strong>Aspiring Software Engineer</strong> & <strong>Cybersecurity Enthusiast</strong><br>
-  🎓 Currently a <strong>college student</strong>, working toward becoming a <strong>software engineer</strong> and <strong>cyber engineer</strong>.<br>
-  🛠️ <strong>Freelancing developer</strong> in the <strong>Minecraft industry</strong>, building custom plugins and optimized servers.
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5LggXzOAL6GvO7/giphy.gif" width="400">
 </p>
 
-<h2>✨ What I’m up to:</h2>
-<ul>
-  <li>🏗️ <strong>Diving deep into back-end development</strong> and <strong>frontend development</strong></li>
-  <li>🚀 Learning advanced <strong>Java optimization techniques</strong> for more efficient game server performance</li>
-  <li>🔐 Improving <strong>server-side security</strong> and automation</li>
-  <li>🌍 Working on <strong>front-end projects</strong> using <strong>React</strong> and <strong>Bootstrap</strong></li>
-</ul>
+<p align="center">
+  💻 <strong>Aspiring Software Engineer</strong> | 🔐 <strong>Cybersecurity Enthusiast</strong><br>
+  🎓 Student Developer based in the <strong>Philippines</strong><br>
+  🎮 <strong>8+ years</strong> of technical configuration & system management in the <strong>Minecraft industry</strong>
+</p>
 
-<h2>💼 Tech Stack:</h2>
+---
+
+### 🚀 What I’m up to:
+- 🛠️ **Founder** of **Yohhan Development** & **Yohhan Services**.
+- 📱 Building **DeafCom**, an AI-based communication app for the Deaf and Hard-of-Hearing.
+- 🧪 Developing **Axion**, an AI-powered research workspace.
+- 📦 Working on **FinScope**, a full-stack personal finance dashboard (React + Node.js).
+- 🌲 Perfecting **Java optimization** for high-performance game servers.
+
+### 💼 Tech Stack:
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,c,mysql,mongodb,spring,laravel,nodejs,postman,git" />
 </p>
 
-<h2>🌱 Currently learning:</h2>
-<ul>
-  <li>🔍 Enhancing <strong>back-end architecture</strong> for scalability and security</li>
-  <li>📈 Mastering the <strong>art of server optimization</strong></li>
-</ul>
+### 📊 GitHub Activity:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<h2>🤝 Connect with me:</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohhannn&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with me:
 <p align="left">
   <a href="https://discord.gg/A9jgs4SvkD" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" style="vertical-align: middle; margin-right: 5px;" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://t.me/Yohhan21" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Yohhan21" height="30" width="40" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
-<h2>📊 GitHub Stats:</h2>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohhannn&show_icons=true&locale=en&layout=compact" alt="yohhannn" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&locale=en" alt="yohhannn" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohhannn&" alt="yohhannn" />
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzRndmZ3bmZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1f96N0nQ7HjS85q4D/giphy.gif" width="100">
 </p>
