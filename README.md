@@ -9,12 +9,11 @@
 
 <p align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yohhannn&label=Profile%20views&color=0e75b6&style=flat" alt="yohhannn" /> </p>
-<img src="https://img.shields.io/badge/Location-Philippines-brightgreen?style=for-the-badge&logo=googlemaps" />
 </p>
 
 ---
 
-## ⚡ About Me
+## ⚡ About Me <img src="https://img.shields.io/badge/Location-Philippines-brightgreen?style=for-the-badge&logo=googlemaps" />
 I am a self-driven professional with a career built on independence and curiosity. I began my freelance journey in high school and have been self-supporting ever since, fostering a deep, practical understanding of internet technology. 
 
 * 🔭 **Founder:** Yohhan Development & Yohhan Services, technical agencies providing tailored server setups and configuration solutions.
