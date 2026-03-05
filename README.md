@@ -85,7 +85,7 @@ I am a self-driven professional with a career built on independence and curiosit
 <br>
 
 <p align="center">
-  <i><b>"Code hard, stay curious, and LIVE YOUR LIFE."</b></i>
+  <i><b>"LIVE YOUR LIFE."</b></i>
 </p>
 
 <p align="right">
