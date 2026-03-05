@@ -1,7 +1,14 @@
 <h1 align="center">👨‍💻 Yohhan | Software Developer & Cybersecurity Enthusiast</h1>
+<h3 align="center">A passionate software developer from the Philippines</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rzhade3/rzhade3/master/spooky.gif" width="600">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yohhannn" alt="Yohhan's Trophies" />
+  </a>
 </p>
 
 <p align="center">
@@ -66,6 +73,10 @@ I am a self-driven professional with a career built on independence and curiosit
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&locale=en" alt="yohhannn github stats" />
 </p>
 <br clear="both">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohhannn" alt="yohhannn streak stats" />
+</p>
 
 ---
 
