@@ -1,5 +1,4 @@
 <h1 align="center">👨‍💻 Yohhan | Software Developer & Cybersecurity Enthusiast</h1>
-<h3 align="center">A passionate software developer from the Philippines</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rzhade3/rzhade3/master/spooky.gif" width="600">
@@ -7,12 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yohhannn" alt="Yohhan's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yohhan" alt="Yohhan's Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yohhannn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="yohhannn" />
+  <img src="https://komarev.com/ghpvc/?username=yohhan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="yohhan" />
   <img src="https://img.shields.io/badge/Location-Philippines-brightgreen?style=for-the-badge&logo=googlemaps" />
 </p>
 
@@ -66,16 +65,16 @@ I am a self-driven professional with a career built on independence and curiosit
 ## 📊 Performance Metrics
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohhannn&show_icons=true&locale=en&layout=compact" alt="yohhannn top languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohhan&show_icons=true&locale=en&layout=compact" alt="yohhan top languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&locale=en" alt="yohhannn github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohhan&show_icons=true&locale=en" alt="yohhan github stats" />
 </p>
 <br clear="both">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohhannn" alt="yohhannn streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohhan" alt="yohhan streak stats" />
 </p>
 
 ---
