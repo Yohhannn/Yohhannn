@@ -17,7 +17,7 @@ I am a self-driven professional with a career built on independence and curiosit
 * 🔭 **Founder:** Yohhan Development & Yohhan Services, technical agencies providing tailored server setups and configuration solutions.
 * 🛠️ **Experience:** 8+ years of freelance technical management specializing in the Minecraft industry, focusing on server stability and custom environments.
 * 🛡️ **Technical Director:** Experience managing esports broadcasts and production workflows.
-* 💼 **Sideline:** Contributing freelance technical and creative work at Jinno Studio.
+* 💼 **Sideline:** Studio Manager at Jinno Studio, overseeing daily operations and coordinating project workflows.
 * 💬 **Focus:** High-performance server architecture, system optimization, and technical consulting.
 
 ---
@@ -57,23 +57,29 @@ I am a self-driven professional with a career built on independence and curiosit
 ---
 
 ## 📊 Performance Metrics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Yohhan's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannn&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <a href="https://github.com/yohhannn">
+    <img src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Yohhan's GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/yohhannn">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannn&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  </a>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 <p align="left">
-  <a href="https://discord.gg/A9jgs4SvkD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discordapp.com/users/nullmc" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-@nullmc-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: nullmc" />
   </a>
   <a href="https://t.me/Yohhan21" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzRndmZ3bmZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1f96N0nQ7HjS85q4D/giphy.gif" width="120">
+  <img src="https://i.pinimg.com/originals/bb/68/95/bb68957d818e241c2d0dc477eb4039fb.gif" width="150" alt="Pixel Art Animation">
 </p>
