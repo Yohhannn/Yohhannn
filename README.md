@@ -58,11 +58,14 @@ I am a self-driven professional with a career built on independence and curiosit
 
 ## 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&theme=tokyonight" alt="Yohhan's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannn&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohhannn&show_icons=true&locale=en&layout=compact" alt="yohhannn top languages" />
 </p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohhannn&show_icons=true&locale=en" alt="yohhannn github stats" />
+</p>
+<br clear="both">
 
 ---
 
