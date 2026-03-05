@@ -12,42 +12,36 @@
 ---
 
 ## ⚡ About Me
-I am a **Software Engineering student** and the **Founder of Yohhan Development**. With over **8 years of experience** in technical configurations and system management within the Minecraft industry, I specialize in high-performance server architecture and custom Java-based solutions. 
-
-Beyond gaming, I am building AI-powered tools to bridge communication gaps and streamline research.
+I am a **Software Engineering student** and the **Founder of Yohhan Development**. With over **8 years of experience** in technical configurations and system management within the Minecraft industry, I specialize in high-performance server architecture, custom Java solutions, and systems optimization.
 
 * 🔭 **Founder:** Yohhan Development & Yohhan Services
-* 🧪 **Lead Developer:** **DeafCom** (AI Communication for the Deaf) & **Axion** (AI Research Workspace)
-* 🛡️ **Interests:** Server-side security, Java optimization, and Full-Stack development.
-* 💬 **Ask me about:** Minecraft server scaling, React/Laravel integration, or IPv6 routing.
+* 🛠️ **Expertise:** Minecraft Industry Freelancing (Plugins & Server Optimization)
+* 🛡️ **Interests:** Server-side security, Back-end Architecture, and Cyber Engineering.
+* 💬 **Ask me about:** Java optimization, SQL database management, or IPv6 routing.
 
 ---
 
 ## 🛠️ Tech Stack & Arsenal
 
-### **Frontend & Backend**
+### **Languages & Logic**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel,nodejs,express,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php&theme=dark" />
 </p>
 
-### **Languages & Databases**
+### **Frameworks & Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,express,bootstrap,html,css&theme=dark" />
+</p>
+
+### **Databases (SQL & NoSQL)**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
 </p>
 
 ### **DevOps & Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,linux,bash,docker,yaml&theme=dark" />
 </p>
-
----
-
-## 🏗️ Active Projects
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **DeafCom** | AI-based communication app for the Deaf & Hard-of-Hearing. | React Native, AI APIs |
-| **FinScope** | AI-powered personal finance and investment dashboard. | Node.js, React, PostgreSQL |
-| **Hyrealms** | Professionalized Minecraft network infrastructure. | Java, Optimization, Linux |
 
 ---
 
