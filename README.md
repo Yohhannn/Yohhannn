@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Yohhan | Software Developer & Cybersecurity Enthusiast</h1>
+<h1 align="center">Software Developer & Cybersecurity Enthusiast</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rzhade3/rzhade3/master/spooky.gif" width="600">
@@ -13,7 +13,7 @@
 
 ---
 
-## ⚡ About Me <img src="https://img.shields.io/badge/Location-Philippines-brightgreen?style=for-the-badge&logo=googlemaps" />
+## ⚡ About Me
 I am a self-driven professional with a career built on independence and curiosity. I began my freelance journey in high school and have been self-supporting ever since, fostering a deep, practical understanding of internet technology. 
 
 * 🔭 **Founder:** Yohhan Development & Yohhan Services, technical agencies providing tailored server setups and configuration solutions.
